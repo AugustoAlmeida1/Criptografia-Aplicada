@@ -121,3 +121,5 @@ implementação, e os blocos de `input()` que estavam espalhados pelos módulos
 foram para o `main.py`. **Nenhum algoritmo foi reescrito** — o que mudou foi
 onde cada um mora. Os nomes antigos `mdc` e `euclEst` continuam funcionando como
 apelidos, então código que já importava esses nomes segue valendo.
+
+# Criptografia-Aplicada
